@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "config:base",
+    ":semanticCommitTypeAll(build)"
+  ],
+  "automerge": true,
+  "automergeType": "branch",
+  "major": {
+    "automerge": false
+  },
+  "rangeStrategy": "bump"
+}
