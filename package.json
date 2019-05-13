@@ -45,7 +45,7 @@
     "@types/argparse": "^1.0.36",
     "@types/chai": "^4.1.7",
     "@types/diff": "^4.0.2",
-    "@types/fs-extra": "^5.1.0",
+    "@types/fs-extra": "^7.0.0",
     "@types/mocha": "^5.2.6",
     "@types/node": "^11.13.10",
     "@types/require-dir": "^1.0.0",
