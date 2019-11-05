@@ -47,7 +47,7 @@
     "@types/diff": "^4.0.2",
     "@types/fs-extra": "^8.0.1",
     "@types/mocha": "^5.2.7",
-    "@types/node": "^11.15.0",
+    "@types/node": "^11.15.2",
     "@types/require-dir": "^1.0.0",
     "@types/semver": "^6.2.0",
     "@types/sinon": "^7.5.0",
