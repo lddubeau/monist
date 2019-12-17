@@ -73,7 +73,7 @@
     "argparse": "^1.0.10",
     "fs-extra": "^8.1.0",
     "require-dir": "^1.2.0",
-    "semver": "^6.3.0"
+    "semver": "^7.1.0"
   },
   "husky": {
     "hooks": {
