@@ -36,7 +36,7 @@
     "build"
   ],
   "engines": {
-    "node": ">=8"
+    "node": ">=v8.17.0"
   },
   "bugs": {
     "url": "https://github.com/lddubeau/monist/issues"
