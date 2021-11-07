@@ -1,5 +1,9 @@
 Monist is a lightweight tool for managing monorepos.
 
+**IMPORTANT NOTE**: Monist is being phased out in favor of ``npm``
+workspaces. If you were using monist for some reason you should take a look at
+[``monist-tools``](https://github.com/lddubeau/monist-tools).
+
 Monist is "lightweight" in the sense that it provides tools that your building
 scripts may use, but *it does not try to replace your building scripts*. For
 instance, for publishing your packages there is no master ``monist publish``
