@@ -47,7 +47,7 @@
     "@commitlint/config-angular": "^11.0.0",
     "@types/argparse": "^1.0.38",
     "@types/chai": "^4.2.14",
-    "@types/diff": "^4.0.2",
+    "@types/diff": "^5.0.1",
     "@types/fs-extra": "^9.0.5",
     "@types/mocha": "^8.2.0",
     "@types/node": "^12.19.8",
